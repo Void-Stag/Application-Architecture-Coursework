@@ -1,0 +1,41 @@
+﻿@model P2659902___Library_System.Models.Rent
+
+@{
+    ViewBag.Title = "New Book Rental";
+}
+
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h4>Rent</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.BookId, "BookId", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("BookId", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.BookId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <h4>Price: £16.99</h4>
+    <!--Price is hardcoded to to lack of understanding of extended foreign key usage, function to grab specific book prices will be implemented in future iteration-->
+    <p>You will be able to rent this book for 10 days.</p>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Create" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Back", "Index", "Books")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

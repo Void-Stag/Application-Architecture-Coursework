@@ -1,0 +1,74 @@
+﻿@model P2659902___Library_System.Models.Payment
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Payment Details</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CardHolderName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CardHolderName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CardNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CardNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cardtype)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cardtype)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CSV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CSV)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExpiryDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExpiryDate)
+        </dd>
+        <dd>
+            <h4>Cost: £16.99</h4>
+            <!--Price is hardcoded to to lack of understanding of extended foreign key usage, function to grab specific book prices will be implemented in future iteration-->
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TransactionDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TransactionDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderStatus)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

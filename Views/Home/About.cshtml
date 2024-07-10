@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Reciept";
+}
+<main aria-labelledby="title">
+    <h2 id="title">Thank you for your purchase.</h2>
+
+    <p>To view your book loan or payment, please go to your user profile.</p>
+    <p>Click the button below to return to the Home page.</p>
+    @Html.ActionLink("Home", "Index", new { area = "" }, new { @class = "btn btn-primary btn-md" })
+</main>

@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+<main aria-labelledby="title">
+    <h3>Need more help?</h3>
+    <p> Come and visit us at our headquarters!</p>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1210.8592617126349!2d-1.140114745985486!3d52.62893052786154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487760dedecde497%3A0x8b4d93a9a8d1c35f!2sKimberlin%20Library%2C%20De%20Montfort%20University!5e0!3m2!1sen!2suk!4v1713515362425!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    <address>
+        Kimberlin Library<br />
+        De Montfort University, Mill Ln <br />
+        Leicester, LE2 7DR<br />
+    </address>
+
+
+    <div class="accordion" id="accordionExample">
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    Phone Us!
+                </button>
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <address>
+                        <abbr title="Phone">P:</abbr>
+                        425.555.0100
+                    </address>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Email Us!
+                </button>
+            </h2>
+            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <address>
+                        <strong>Support:</strong>   <a href="mailto:Support@example.com">Books4UHelpdesk@example.com</a><br />
+                        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">B4UMarketing@example.com</a>
+                    </address>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

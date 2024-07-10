@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <section class="row" aria-labelledby="aspnetTitle">
+        <h1 id="title">Welcome!</h1>
+        <p class="lead">
+            <marquee direction="left">
+                || 📖 Books4U : The easy way to access your favorite books 📖 || Partnered with libraries nationwide! 🌍 || From Fanatsy to Action || New Books now avaliable to loan out! 📚 ||
+            </marquee>
+        </p>
+        <p class="lead">To view our extensive collection of avalibale books from a varierty of libraries, click below!</p>
+        <div class="alert alert-warning" role="alert">
+            Please Note: There is currently a limited selection of books. More are being added each week.
+        </div>
+        <p>@Html.ActionLink("View Books", "Index", "Books", new { area = "" }, new { @class = "btn btn-primary btn-md" })</p>
+    </section>
+
+    <div class="row">
+        <section class="col-md-4" aria-labelledby="AboutUs">
+            <h2 id="gettingStartedTitle">Book of the Month 📆</h2>
+            <hr />
+            <h4>Eragon</h4>
+            <img src="~/Img/Eragon-Original.png" />
+        </section>
+        <section class="col-md-4" aria-labelledby="librariesTitle">
+            <h2 id="librariesTitle">Top Romance Book💕</h2>
+            <hr />
+            <h4>Song of the Six Realms</h4>
+            <img src="~/Img/SongSixRealms.png" />
+        </section>
+        <section class="col-md-4" aria-labelledby="hostingTitle">
+            <h2 id="hostingTitle">Our Library Partners 📚</h2>
+            <hr />
+            <p>We partnered up with libraries nationwide to help them extend their reach, allowing them to keep providing reading material to everyone!</p>
+            <p> Click the links below to check them out!</p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Central Bedfordshire Libraries &raquo;</a></p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">The British Library &raquo;</a></p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Glasgow Central Library &raquo;</a></p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Shetland Libraries &raquo;</a></p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Cardiff University Library &raquo;</a></p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Nottingham Historic Library &raquo;</a></p>
+        </section>
+    </div>
+</main>
