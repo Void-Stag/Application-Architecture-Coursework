@@ -1,0 +1,183 @@
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\P2659902 - Library System.dll.config
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\P2659902 - Library System.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\P2659902 - Library System.pdb
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Antlr3.Runtime.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\EntityFramework.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\EntityFramework.SqlServer.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.Google.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Web.Infrastructure.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Newtonsoft.Json.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Owin.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.Helpers.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.Mvc.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.Optimization.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.Razor.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.WebPages.Deployment.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.WebPages.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.WebPages.Razor.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\WebGrease.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.Helpers.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.Mvc.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.Optimization.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.Razor.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.WebPages.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.WebPages.Deployment.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\System.Web.WebPages.Razor.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Newtonsoft.Json.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Antlr3.Runtime.pdb
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\EntityFramework.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\EntityFramework.SqlServer.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.Google.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\obj\Debug\P2659902 - Library System.csproj.AssemblyReference.cache
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\obj\Debug\P2659902 - Library System.csproj.CoreCompileInputs.cache
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\obj\Debug\P2659902.0F66FEAC.Up2Date
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\obj\Debug\P2659902 - Library System.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Final System\P2659902 - Library System\obj\Debug\P2659902 - Library System.pdb
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\P2659902 - Library System.dll.config
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\P2659902 - Library System.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\P2659902 - Library System.pdb
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Antlr3.Runtime.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\EntityFramework.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\EntityFramework.SqlServer.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.Google.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Web.Infrastructure.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Newtonsoft.Json.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Owin.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.Helpers.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.Mvc.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.Optimization.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.Razor.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.WebPages.Deployment.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.WebPages.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.WebPages.Razor.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\WebGrease.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.Helpers.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.Mvc.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.Optimization.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.Razor.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.WebPages.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.WebPages.Deployment.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\System.Web.WebPages.Razor.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Newtonsoft.Json.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Antlr3.Runtime.pdb
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\EntityFramework.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\EntityFramework.SqlServer.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.Google.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\obj\Debug\P2659902 - Library System.csproj.AssemblyReference.cache
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\obj\Debug\P2659902 - Library System.csproj.CoreCompileInputs.cache
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\obj\Debug\P2659902.0F66FEAC.Up2Date
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\obj\Debug\P2659902 - Library System.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\obj\Debug\P2659902 - Library System.pdb
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\obj\Debug\P2659902___Library_System.Migrations.RentIdType.resources
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\obj\Debug\P2659902 - Library System.csproj.GenerateResource.cache
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\obj\Debug\P2659902___Library_System.Migrations.RentTableDrop.resources
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\obj\Debug\P2659902___Library_System.Migrations.RentTableAdd.resources
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\obj\Debug\P2659902___Library_System.Migrations.NewDatabase.resources
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\Backup of the remaked libraray system\P2659902 - Library System\obj\Debug\P2659902___Library_System.Migrations.PaymentTypeChange.resources
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\P2659902 - Library System.dll.config
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\P2659902 - Library System.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\P2659902 - Library System.pdb
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Antlr3.Runtime.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\EntityFramework.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\EntityFramework.SqlServer.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.Google.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Web.Infrastructure.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Newtonsoft.Json.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Owin.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.Helpers.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.Mvc.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.Optimization.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.Razor.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.WebPages.Deployment.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.WebPages.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.WebPages.Razor.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\WebGrease.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.Helpers.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.Mvc.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.Optimization.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.Razor.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.WebPages.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.WebPages.Deployment.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\System.Web.WebPages.Razor.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Newtonsoft.Json.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Antlr3.Runtime.pdb
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\EntityFramework.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\EntityFramework.SqlServer.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.Google.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\obj\Debug\P2659902 - Library System.csproj.AssemblyReference.cache
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\obj\Debug\P2659902___Library_System.Migrations.RentIdType.resources
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\obj\Debug\P2659902___Library_System.Migrations.RentTableDrop.resources
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\obj\Debug\P2659902___Library_System.Migrations.RentTableAdd.resources
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\obj\Debug\P2659902___Library_System.Migrations.NewDatabase.resources
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\obj\Debug\P2659902___Library_System.Migrations.PaymentTypeChange.resources
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\obj\Debug\P2659902 - Library System.csproj.GenerateResource.cache
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\obj\Debug\P2659902 - Library System.csproj.CoreCompileInputs.cache
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\obj\Debug\P2659902.0F66FEAC.Up2Date
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\obj\Debug\P2659902 - Library System.dll
+H:\Documents\Computing\App Architecture\Application-Architecture-Assignment-main\P2659902 - Library System\obj\Debug\P2659902 - Library System.pdb
